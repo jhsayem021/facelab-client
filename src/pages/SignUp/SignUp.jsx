@@ -57,9 +57,7 @@ const SignUp = () => {
 
     return (
         <>
-            <Helmet>
-                <title>Food Mania | Sign Up</title>
-            </Helmet>
+            
             <div className="hero min-h-screen bg-base-200">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
